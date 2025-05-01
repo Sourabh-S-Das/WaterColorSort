@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 816dc84c68c2d304f9c23527ef3dfd2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bottleMaskSR: {instanceID: 0}
+  - bottleControllerRef: {instanceID: 0}
+  - leftRotationPoint: {instanceID: 0}
+  - rightRotationPoint: {instanceID: 0}
+  - lineRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
